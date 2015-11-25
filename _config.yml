@@ -1,0 +1,28 @@
+name: CounterCulture
+favicon: null
+layout_spectrum: 0.5468748258426785
+typography_spectrum: 0.15888708573766053
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5693758155684918
+  lightness: 0.5775690383743495
+  saturation: 0.5839356374926865
+  rhythmicContrast: 0.5528455344028771
+purpose: []
