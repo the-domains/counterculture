@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nebraska Countertops and Decorative Surfaces]]></title>
+        <description><![CDATA[Nebraska Countertops and Decorative Surfaces]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 Nov 2015 21:38:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Room Designer]]></title>
+            <description><![CDATA[<article><h1>My Room Designer</h1><p>Get creative with DuPont's MY ROOM DESIGNER. You can upload a photo of your kitchen and see what new countertops would look like.</p><img src="http://www.myroomdesigner.dupont.com/screenshot.jpg"></article>]]></description>
+            <link>http://myroomdesigner.dupont.com/?src=facebook</link>
+            <guid isPermaLink="false">7ddfe346-15dc-4084-83c8-0af52eb0994c</guid>
+            <pubDate>Wed, 25 Nov 2015 21:37:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
